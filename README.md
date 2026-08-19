@@ -1,2 +1,2 @@
 # studioleiel.github.io
-Luxury Wedding &amp; Fashion Photography Portfolio by Studio Leiel
+Studio Leiel — AI fashion editorial. ComfyUI tooling and pipeline notes.
